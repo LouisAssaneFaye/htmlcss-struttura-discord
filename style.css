@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.altezza-piccola{
+    height: 60px;
+}
+
+header{
+    background-color: rgb(187, 232, 232);
+}
+
+section{
+    height: 400px;
+}
+
+main section:nth-of-type(5){
+    height: 700px;
+
+}
+
+#sfondo-blue{
+    background-color: rgb(26, 26, 165);
+}
+
+.sfondo-bianco{
+    background-color: rgb(255, 252, 252);
+}
+
+.sfondo-grigio{
+    background-color: rgb(182, 181, 181);
+}
+
+.sfondo-nero{
+    background-color: rgba(1, 5, 4, 0.876);
+}
+ 
